@@ -1,0 +1,10 @@
+1791215888s 1 https://dandiarchive.s3.amazonaws.com/zarr/fa18470f-5c3b-4314-9858-d05066080064/sorting/properties/Amplitude/.zarray?versionId=4Va7aXEzZbAwJp81g4u65GoMpq1SRlW_
+1791215888s 1 https://api.dandiarchive.org/api/zarr/fa18470f-5c3b-4314-9858-d05066080064/files?prefix=sorting%2Fproperties%2FAmplitude%2F.zarray&download=true
+1791215888s 1 https://dandiarchive.s3.amazonaws.com/zarr/fa18470f-5c3b-4314-9858-d05066080064/sorting/properties/ContamPct/.zarray?versionId=eZ0IunlRcGUAq490twVkNddxCpoAVvok
+1791215888s 1 https://api.dandiarchive.org/api/zarr/fa18470f-5c3b-4314-9858-d05066080064/files?prefix=sorting%2Fproperties%2FContamPct%2F.zarray&download=true
+1791215888s 1 https://dandiarchive.s3.amazonaws.com/zarr/fa18470f-5c3b-4314-9858-d05066080064/sorting/properties/classifier_probability/.zarray?versionId=Bx2SuVHK7ssuslK7v3VvDlO36fMiz8L_
+1791215888s 1 https://api.dandiarchive.org/api/zarr/fa18470f-5c3b-4314-9858-d05066080064/files?prefix=sorting%2Fproperties%2Fclassifier_probability%2F.zarray&download=true
+1791215888s 1 https://dandiarchive.s3.amazonaws.com/zarr/fa18470f-5c3b-4314-9858-d05066080064/sorting/properties/decoder_probability/.zarray?versionId=rg1IsXhdlCSNSrmIIqxPjkCctRmyAtru
+1791215888s 1 https://api.dandiarchive.org/api/zarr/fa18470f-5c3b-4314-9858-d05066080064/files?prefix=sorting%2Fproperties%2Fdecoder_probability%2F.zarray&download=true
+1791215889s 1 https://dandiarchive.s3.amazonaws.com/zarr/fa18470f-5c3b-4314-9858-d05066080064/sorting/properties/unitrefine_probability/.zarray?versionId=dw53buNNM4e5Hrxl5_gsIk7MZFeen42h
+1791215889s 1 https://api.dandiarchive.org/api/zarr/fa18470f-5c3b-4314-9858-d05066080064/files?prefix=sorting%2Fproperties%2Funitrefine_probability%2F.zarray&download=true
